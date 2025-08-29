@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "9.0.4"
     },
-    "CreationDate": "2025-08-29T10:18:42+02:00"
+    "CreationDate": "2025-08-29T10:03:57+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "TDA7267",
-      "GUID": "54444137-3236-4372-9e6b-696361645f70",
+      "Name": "TDA7267_2x2_panel",
+      "GUID": "54444137-3236-4375-9f32-78325f70616e",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 43.05,
-      "Y": 39.05
+      "X": 89.05,
+      "Y": 81.05
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -24,9 +24,9 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.5,
-      "PadToTrack": 0.5,
-      "TrackToTrack": 0.5,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
+      "TrackToTrack": 0.2,
       "MinLineWidth": 0.5,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "TDA7267-F_Cu.gbr",
+      "Path": "TDA7267_2x2_panel-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TDA7267-B_Cu.gbr",
+      "Path": "TDA7267_2x2_panel-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TDA7267-F_Paste.gbr",
+      "Path": "TDA7267_2x2_panel-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TDA7267-B_Paste.gbr",
+      "Path": "TDA7267_2x2_panel-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TDA7267-F_Silkscreen.gbr",
+      "Path": "TDA7267_2x2_panel-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TDA7267-B_Silkscreen.gbr",
+      "Path": "TDA7267_2x2_panel-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "TDA7267-F_Mask.gbr",
+      "Path": "TDA7267_2x2_panel-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "TDA7267-B_Mask.gbr",
+      "Path": "TDA7267_2x2_panel-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "TDA7267-Edge_Cuts.gbr",
+      "Path": "TDA7267_2x2_panel-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

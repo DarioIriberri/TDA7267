@@ -2743,7 +2743,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "A10K"
+		(property "Value" "R_Potentiometer"
 			(at 73.66 87.6299 0)
 			(effects
 				(font
@@ -3692,7 +3692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 138.43 63.5 0)
 			(effects
 				(font
