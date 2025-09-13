@@ -1702,6 +1702,16 @@
 		)
 		(uuid "e989f741-785e-43a6-866d-949aa581e57c")
 	)
+	(label "VCC"
+		(at 77.47 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "04b76ce5-26bb-49ec-aa38-f717de1f150d")
+	)
 	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 118.11 97.79 0)
